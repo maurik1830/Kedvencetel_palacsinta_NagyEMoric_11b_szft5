@@ -1,0 +1,49 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Encode+Sans&family=Montserrat:wght@100&family=Sacramento&display=swap');
+
+
+
+
+.vl {
+    border-left: 1px solid grey;
+    height: 500px;
+    padding: 0%;
+    width: 0%;
+}
+  
+footer p{
+    text-align: center;
+   
+}
+body{
+    background-image: url(../img/pala3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+}
+.static{
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.acces{
+    padding-left: 125px;
+    padding-right: 25px;
+    width: 50%;
+}
+.make{
+    padding-left: 75px;
+    padding-right: 100px;
+}
+
+
+p{
+    text-align: justify;
+
+}
+.paragraph{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
